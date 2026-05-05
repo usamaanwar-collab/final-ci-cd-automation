@@ -1,5 +1,5 @@
 # app_logic.py
-
+# Automation test run
 def add_participant_to_challenge(current_count):
     # This is a simple logic: if we add a person, the count goes up by 1
     return current_count + 1
